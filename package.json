@@ -1,35 +1,17 @@
 {
-  "name": "bash2json-docs",
-  "version": "0.0.0",
-  "description": "bash2json docs",
-  "main": "index.js",
+  "name": "bash2json-documentation",
   "type": "module",
+  "version": "0.0.1",
   "scripts": {
     "dev": "astro dev",
-    "check": "astro check",
+    "start": "astro dev",
     "build": "astro build",
-    "preview": "astro preview"
+    "preview": "astro preview",
+    "astro": "astro"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "@astrojs/check": "latest",
-    "@astrojs/markdown-remark": "latest",
-    "@astrojs/mdx": "latest",
-    "@astrojs/node": "latest",
-    "@astrojs/react": "latest",
-    "@astrojs/sitemap": "latest",
-    "astro": "latest",
-    "framer-motion": "latest",
-    "nanoid": "latest",
-    "react": "^18.0.0",
-    "react-dom": "^18.3.1",
-    "react-slot-counter": "^3.0.0"
-  },
-  "devDependencies": {
-    "@types/react": "^18.3.3",
-    "@types/react-dom": "^18.3.0",
-    "prettier-plugin-astro": "^0.14.0"
+    "@astrojs/starlight": "^0.34.4",
+    "astro": "^5.6.1",
+    "sharp": "^0.32.5"
   }
 }
