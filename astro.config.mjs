@@ -13,7 +13,7 @@ export default defineConfig({
 					label: 'Projects',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'bash2json', slug: '/bash2json' },
+						{ label: 'bash2json', slug: 'bash2json' },
 					],
 				},
 				{
