@@ -27,15 +27,15 @@ export default defineConfig({
 					items: [
 						{ 
 						   label: 'Guides', 
-						   autogenerate: { directory: 'bashcord/guides' }
+						   autogenerate: { directory: 'bashcord/Guides' }
 						},
 						{ 
 							label: 'Builders', 
-							autogenerate: { directory: 'bashcord/builders' }
+							autogenerate: { directory: 'bashcord/Builders' }
 						},
 						{ 
 						   label: 'Functions', 
-						   autogenerate: { directory: 'bashcord/functions' }
+						   autogenerate: { directory: 'bashcord/Functions' }
 						}
 					   ]
 				},
