@@ -1,3 +1,6 @@
+---
+title: channel_message
+---
 # channel_message 
 Retrieves a specific message in the channel. Returns a message object on success.
 

@@ -1,2 +1,8 @@
+---
+title: user
+---
 # user 
- user_id=${1}
+Returns a user object.
+Count | Name | Type | Required        
+----|----|----|---- 
+1 | user_id | Snowflake | True

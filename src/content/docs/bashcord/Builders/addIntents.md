@@ -1,2 +1,0 @@
-# addIntents 
- intents=${1}

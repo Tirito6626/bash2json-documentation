@@ -1,3 +1,6 @@
+---
+title: guild_emoji_delete
+---
 # guild_emoji_delete 
 Delete the given emoji. For emojis created by the current user, requires either the CREATE_GUILD_EXPRESSIONS or MANAGE_GUILD_EXPRESSIONS permission. For other emojis, requires the MANAGE_GUILD_EXPRESSIONS permission. Returns 204 No Content on success
 

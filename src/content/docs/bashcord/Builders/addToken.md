@@ -1,2 +1,0 @@
-# addToken 
- token=${1}

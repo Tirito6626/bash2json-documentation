@@ -1,4 +1,7 @@
-# guild_bans_get 
+---
+title: guild_bans
+---
+# guild_bans
 Returns a list of ban objects for the users banned from this guild. Requires the BAN_MEMBERS permission
 
 Count | Name | Type | Required        

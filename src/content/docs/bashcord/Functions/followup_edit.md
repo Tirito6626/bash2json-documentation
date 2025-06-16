@@ -1,3 +1,6 @@
+---
+title: followup_edit
+---
 # followup_edit
 Edits a followup message for an Interaction. Functions the same as [Edit Webhook Message](https://discord.com/developers/docs/resources/webhook#modify-webhook)
 

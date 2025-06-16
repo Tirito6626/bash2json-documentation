@@ -1,3 +1,6 @@
+---
+title: channel_modify
+---
 # channel_modify 
 Update a channel's settings. Returns a channel on success, and a 400 BAD REQUEST on invalid parameters
 

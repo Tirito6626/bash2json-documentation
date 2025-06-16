@@ -1,4 +1,7 @@
-# channel_thread_members_get 
+---
+title: channel_thread_members
+---
+# channel_thread_members
 Returns array of thread members objects that are members of the thread.
 
 When with_member is set to true, the results will be paginated and each thread member object will include a member field containing a guild member object

@@ -1,3 +1,7 @@
+---
+title: Installation
+---
+
 # Requirements
 - [jq](https://jqlang.github.io/jq/download/)
 - [nodejs](https://github.com/nodesource/distributions) 

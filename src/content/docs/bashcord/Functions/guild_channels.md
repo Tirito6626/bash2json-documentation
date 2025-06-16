@@ -1,3 +1,6 @@
+---
+title: guild_channels
+---
 # guild_channels 
 Returns a list of guild channel objects. Does not include threads
 

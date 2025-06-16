@@ -1,3 +1,6 @@
+---
+title: channel_pins
+---
 # channel_pins 
 Returns all pinned messages in the channel as an array of message objects
 

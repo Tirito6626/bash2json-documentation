@@ -1,3 +1,6 @@
+---
+title: channel_messages
+---
 # channel_messages 
 Retrieves the messages in a channel. Returns an array of message objects on success.
 

@@ -1,3 +1,6 @@
+---
+title: channel_thread_message_start
+---
 # channel_thread_message_start 
 Creates a new thread from an existing message. Returns a channel on success, and a 400 BAD REQUEST on invalid parameters. Fires a Thread Create and a Message Update Gateway event.
 

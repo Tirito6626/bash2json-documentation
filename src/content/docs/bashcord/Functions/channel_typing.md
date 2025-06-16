@@ -1,3 +1,6 @@
+---
+title: channel_typing
+---
 # channel_typing 
 Post a typing indicator for the specified channel, which expires after 10 seconds. Returns a 204 empty response on success. Fires a Typing Start Gateway event.
 

@@ -1,3 +1,6 @@
+---
+title: followup_send
+---
 # followup_send
 Create a followup message for an Interaction. Functions the same as [Execute Webhook](https://discord.com/developers/docs/resources/webhook#execute-webhook), but wait is always true. The thread_id, avatar_url, and username parameters are not supported when using this endpoint for interaction followups.
 

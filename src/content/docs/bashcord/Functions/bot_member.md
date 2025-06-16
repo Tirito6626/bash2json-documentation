@@ -1,3 +1,6 @@
+---
+title: bot_member
+---
 # bot_member 
 Returns a guild member object for the current user
 

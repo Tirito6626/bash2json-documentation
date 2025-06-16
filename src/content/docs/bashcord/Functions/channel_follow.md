@@ -1,3 +1,6 @@
+---
+title: channel_follow
+---
 # channel_follow
 Follow an Announcement Channel to send messages to a target channel. Requires the MANAGE_WEBHOOKS permission in the target channel. Returns a followed channel object
 

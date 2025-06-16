@@ -1,3 +1,6 @@
+---
+title: channel_permissions_delete
+---
 # channel_permissions_delete
 Delete a channel permission overwrite for a user or role in a channel. Only usable for guild channels. Requires the MANAGE_ROLES permission. Returns a 204 empty response on success
 

@@ -1,3 +1,6 @@
+---
+title: interaction_reply
+---
 # interaction_reply 
 Create a response to an Interaction from the gateway. Body is an interaction response. Returns 204 No Content
 

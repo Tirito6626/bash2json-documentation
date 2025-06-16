@@ -1,3 +1,6 @@
+---
+title: channel_message_send
+---
 # channel_message_send
 Post a message to a guild text or DM channel. Returns a message object
 
