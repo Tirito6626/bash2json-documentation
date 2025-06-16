@@ -14,8 +14,8 @@ export default defineConfig({
 					autogenerate: { directory: 'bash2json' },
 				},
 				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
+					label: 'bashcord',
+					autogenerate: { directory: 'bashcord' },
 				},
 			],
 		}),

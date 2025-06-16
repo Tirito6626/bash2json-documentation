@@ -1,0 +1,2 @@
+# addContent 
+ content=${1}

@@ -1,0 +1,2 @@
+# addType 
+ type=$1

@@ -1,0 +1,2 @@
+# addFooter 
+ text=${1}
