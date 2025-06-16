@@ -1,7 +1,6 @@
 ---
 title: bot_dm_create
 ---
-# bot_dm_create
 Create a new group DM channel with multiple users
 
  Count | Name | Type | Required        

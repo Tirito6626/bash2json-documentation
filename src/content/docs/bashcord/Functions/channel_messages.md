@@ -1,7 +1,7 @@
 ---
 title: channel_messages
 ---
-# channel_messages 
+
 Retrieves the messages in a channel. Returns an array of message objects on success.
 
 If operating on a guild channel, this endpoint requires the current user to have the VIEW_CHANNEL permission. If the channel is a voice channel, they must also have the CONNECT permission.

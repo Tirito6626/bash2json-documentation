@@ -1,7 +1,6 @@
 ---
 title: guild_emoji_create
 ---
-# guild_emoji_create
 Create a new emoji for the guild. Requires the CREATE_GUILD_EXPRESSIONS permission. Returns the new emoji object on success 
 
 Count | Name | Type | Required        

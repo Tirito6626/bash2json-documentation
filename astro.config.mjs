@@ -11,11 +11,33 @@ export default defineConfig({
 			sidebar: [
 				{
 					label: 'bash2json', 
-					autogenerate: { directory: 'bash2json' },
+					items: [
+					 { 
+						label: 'Guides', 
+						autogenerate: { directory: 'bash2json/guides' }
+					 },
+					 { 
+						label: 'Reference', 
+						autogenerate: { directory: 'bash2json/reference' }
+					 }
+					]
 				},
 				{
 					label: 'bashcord',
-					autogenerate: { directory: 'bashcord' },
+					items: [
+						{ 
+						   label: 'Guides', 
+						   autogenerate: { directory: 'bashcord/guides' }
+						},
+						{ 
+							label: 'Builders', 
+							autogenerate: { directory: 'bashcord/builders' }
+						},
+						{ 
+						   label: 'Functions', 
+						   autogenerate: { directory: 'bashcord/functions' }
+						}
+					   ]
 				},
 			],
 		}),

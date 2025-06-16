@@ -1,7 +1,6 @@
 ---
 title: channel_threads_archived_private_joined
 ---
-# channel_threads_archived_private_joined
 Returns archived threads in the channel that are of type PRIVATE_THREAD, and the user has joined. Threads are ordered by their id, in descending order. Requires the READ_MESSAGE_HISTORY permission
 
 Count | Name | Type | Required        

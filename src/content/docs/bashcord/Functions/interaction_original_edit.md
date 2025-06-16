@@ -1,7 +1,6 @@
 ---
 title: interaction_original_edit
 ---
-# interaction_original_edit
 Edits the initial Interaction response. Functions the same as [Edit Webhook Message](https://discord.com/developers/docs/resources/webhook#modify-webhook)
 
 Count | Name | Type | Required        

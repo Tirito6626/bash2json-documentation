@@ -1,7 +1,6 @@
 ---
 title: channel_invites_create
 ---
-# channel_invites_create
 Create a new invite object for the channel. Only usable for guild channels. Requires the CREATE_INSTANT_INVITE permission. Returns an invite object
 
 Count | Name | Type | Required        

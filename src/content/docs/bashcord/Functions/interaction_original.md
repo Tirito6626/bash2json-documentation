@@ -1,7 +1,6 @@
 ---
 title: interaction_original
 ---
-# interaction_original
 Returns the initial Interaction response
 
 Count | Name | Type | Required        

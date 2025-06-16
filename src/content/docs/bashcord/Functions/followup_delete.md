@@ -1,7 +1,6 @@
 ---
 title: followup_delete
 ---
-# followup_delete
 Deletes a followup message for an Interaction. Returns 204 No Content on success
 
 Count | Name | Type | Required        

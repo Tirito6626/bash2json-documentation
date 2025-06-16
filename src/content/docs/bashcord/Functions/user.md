@@ -1,7 +1,6 @@
 ---
 title: user
 ---
-# user 
 Returns a user object.
 Count | Name | Type | Required        
 ----|----|----|---- 

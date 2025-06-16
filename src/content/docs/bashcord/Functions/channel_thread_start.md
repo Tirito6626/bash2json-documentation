@@ -1,7 +1,6 @@
 ---
 title: channel_thread_start
 ---
-# channel_thread_start 
 Creates a new thread that is not connected to an existing message. Returns a channel on success, and a 400 BAD REQUEST on invalid parameters
 
 Count | Name | Type | Required        
