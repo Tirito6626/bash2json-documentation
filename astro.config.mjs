@@ -6,15 +6,12 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
+			title: "tirito's docs",
+			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/Tirito6626' }],
 			sidebar: [
 				{
-					label: 'Projects',
-					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'bash2json', slug: 'bash2json' },
-					],
+					label: 'bash2json', 
+					autogenerate: { directory: 'bash2json' },
 				},
 				{
 					label: 'Reference',

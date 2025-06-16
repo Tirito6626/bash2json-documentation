@@ -3,10 +3,10 @@ title: Installation
 description: bash2json installation
 ---
 
-So you came here to install and use this (not) beautiful tool 
+So you came here to install and use this (not) beautiful tool... 
 
 ## 1. Method: Clone the repository
-Just run 
+Clone the repositoty using git:
 ```bash
 git clone https://github.com/Tirito6626/bash2json
 ```
@@ -30,7 +30,7 @@ wget https://repo.tirito.de/projects/bash2json
 
 and make the file executable
 ```
-chmod +x ./bash2json/bash2json
+chmod +x ./bash2json
 ```
 
 done!
